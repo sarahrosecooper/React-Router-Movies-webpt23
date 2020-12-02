@@ -69,4 +69,12 @@ body {
 .home-button {
   padding: 5px 10px;
   background-color: lightskyblue;
+  text-decoration: none;
+}
+
+.home-button a {
+  padding: 5px 10px;
+  background-color: lightskyblue;
+  text-decoration: none;
+  color: black;
 }
